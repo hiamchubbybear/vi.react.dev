@@ -4,7 +4,7 @@ title: React Blog
 
 <Intro>
 
-This blog is the official source for the updates from the React team. Anything important, including release notes or deprecation notices, will be posted here first. You can also follow the [@reactjs](https://twitter.com/reactjs) account on Twitter, but you won’t miss anything essential if you only read this blog.
+Blog này là mã nguồn cập nhật chính thức từ React . Một điều quan trọng khác, bao gồm ghi chú khi phát hành hoặc các thông báo bị loại bỏ , đăng lên đầu tiên ở đây. Bạn cũng có thể theo dõi [@reactjs](https://twitter.com/reactjs) trên Twitter, nhưng bạn sẽ không bỏ lỡ bất cứ điều gì cần thiết nếu bạn đọc blog này .
 
 </Intro>
 
@@ -12,7 +12,7 @@ This blog is the official source for the updates from the React team. Anything i
 
 <BlogCard title="React 19 Beta " date="April 25, 2024" url="/blog/2024/04/25/react-19">
 
-In the React 19 Beta Upgrade Guide, we shared step-by-step instructions for upgrading your app to React 19 Beta. In this post, we'll give an overview of the new features in React 19, and how you can adopt them.
+Trong bản hướng dẫn cập nhật React 19 , chúng tôi đã chia sẽ hướng dẫn từng bước của việc cập nhật ứng dụng của bạn lên phiên bản React 19 Beta . Trong bài viết này ,chúng tôi sẽ cho bạn một góc nhìn toàn cảnh của các chức năng mới trong bản React 19 , và cách bạn có thể áp dụng chúng .
 
 </BlogCard>
 
